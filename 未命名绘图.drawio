@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T03:15:16.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="PDx3MI8gM1zuSwdDtmi3" version="14.6.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-10T03:24:18.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hB34Ah5LmKp5hspt2wQF" version="14.6.11" type="github" pages="3">
   <diagram id="tJS1vDHtEpJE7gst3Dyk" name="第 2 页">
     <mxGraphModel dx="688" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h4NXKnG3taLFrd10vUne" name="第 3 页">
-    <mxGraphModel dx="688" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="688" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RxuUumW89x1owzj3WMMr-0" />
         <mxCell id="RxuUumW89x1owzj3WMMr-1" parent="RxuUumW89x1owzj3WMMr-0" />
@@ -295,6 +295,102 @@
         </mxCell>
         <mxCell id="RxuUumW89x1owzj3WMMr-41" value="播放合成视频" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RxuUumW89x1owzj3WMMr-1">
           <mxGeometry x="167.5" y="790" width="85" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RZ9CQ1DAljVUwfbEEbDO" name="第 4 页">
+    <mxGraphModel dx="960" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-0" />
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-1" parent="y5BYHVSDUeLFLjFIEvsZ-0" />
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-13" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#000000;" edge="1" parent="y5BYHVSDUeLFLjFIEvsZ-1" source="y5BYHVSDUeLFLjFIEvsZ-2" target="y5BYHVSDUeLFLjFIEvsZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-20" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#000000;" edge="1" parent="y5BYHVSDUeLFLjFIEvsZ-1" source="y5BYHVSDUeLFLjFIEvsZ-2" target="y5BYHVSDUeLFLjFIEvsZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="90" />
+              <mxPoint x="150" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-21" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y5BYHVSDUeLFLjFIEvsZ-1" source="y5BYHVSDUeLFLjFIEvsZ-2" target="y5BYHVSDUeLFLjFIEvsZ-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="90" />
+              <mxPoint x="570" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-2" value="视频图片编辑器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="y5BYHVSDUeLFLjFIEvsZ-1">
+          <mxGeometry x="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-15" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#000000;" edge="1" parent="y5BYHVSDUeLFLjFIEvsZ-1" source="y5BYHVSDUeLFLjFIEvsZ-3" target="y5BYHVSDUeLFLjFIEvsZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-16" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y5BYHVSDUeLFLjFIEvsZ-1" source="y5BYHVSDUeLFLjFIEvsZ-3" target="y5BYHVSDUeLFLjFIEvsZ-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="240" />
+              <mxPoint x="55" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-17" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.356;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="y5BYHVSDUeLFLjFIEvsZ-1" source="y5BYHVSDUeLFLjFIEvsZ-3" target="y5BYHVSDUeLFLjFIEvsZ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="240" />
+              <mxPoint x="242" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-3" value="视频编辑模块&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22edgeStyle%3Dnone%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BfillColor%3D%23000000%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22210%22%20y%3D%22440%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22110%22%20y%3D%22490%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22210%22%20y%3D%22470%22%2F%3E%3CmxPoint%20x%3D%22110%22%20y%3D%22470%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="y5BYHVSDUeLFLjFIEvsZ-1">
+          <mxGeometry x="90" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#000000;" edge="1" parent="y5BYHVSDUeLFLjFIEvsZ-1" source="y5BYHVSDUeLFLjFIEvsZ-5" target="y5BYHVSDUeLFLjFIEvsZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-5" value="winform主界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="y5BYHVSDUeLFLjFIEvsZ-1">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-18" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y5BYHVSDUeLFLjFIEvsZ-1" source="y5BYHVSDUeLFLjFIEvsZ-6" target="y5BYHVSDUeLFLjFIEvsZ-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="250" />
+              <mxPoint x="513" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-19" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#000000;" edge="1" parent="y5BYHVSDUeLFLjFIEvsZ-1" source="y5BYHVSDUeLFLjFIEvsZ-6" target="y5BYHVSDUeLFLjFIEvsZ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="250" />
+              <mxPoint x="630" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-6" value="图片编辑模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="y5BYHVSDUeLFLjFIEvsZ-1">
+          <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-7" value="视频字幕模块&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22edgeStyle%3Dnone%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BfillColor%3D%23000000%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22210%22%20y%3D%22440%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22110%22%20y%3D%22490%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22210%22%20y%3D%22470%22%2F%3E%3CmxPoint%20x%3D%22110%22%20y%3D%22470%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="y5BYHVSDUeLFLjFIEvsZ-1">
+          <mxGeometry x="10" y="280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-8" value="音频处理模块&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22edgeStyle%3Dnone%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BfillColor%3D%23000000%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22210%22%20y%3D%22440%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22110%22%20y%3D%22490%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22210%22%20y%3D%22470%22%2F%3E%3CmxPoint%20x%3D%22110%22%20y%3D%22470%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="y5BYHVSDUeLFLjFIEvsZ-1">
+          <mxGeometry x="110" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-9" value="音视频合成模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="y5BYHVSDUeLFLjFIEvsZ-1">
+          <mxGeometry x="210" y="280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-10" value="图片字体调整模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="y5BYHVSDUeLFLjFIEvsZ-1">
+          <mxGeometry x="460" y="280" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-11" value="图片滤镜调节模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="y5BYHVSDUeLFLjFIEvsZ-1">
+          <mxGeometry x="580" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y5BYHVSDUeLFLjFIEvsZ-12" value="视频图片编辑器选择模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="y5BYHVSDUeLFLjFIEvsZ-1">
+          <mxGeometry x="325" y="285" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
